@@ -30,5 +30,11 @@
 //PalindromeString obj = new PalindromeString();
 //obj.PalindromeStringProgram();
 
-PalindromeNumber obj = new PalindromeNumber();
-obj.PalindromeNumerProgram(121);
+//PalindromeNumber obj = new PalindromeNumber();
+//obj.PalindromeNumerProgram(121);
+
+//FactorialNumber obj = new FactorialNumber();
+//obj.FactorialNumberProgram(1);
+
+//FibonacciSeries obj = new FibonacciSeries();
+//obj.FibonacciSeriesprogram(7);
