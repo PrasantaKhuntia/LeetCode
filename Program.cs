@@ -39,5 +39,11 @@
 //FibonacciSeries obj = new FibonacciSeries();
 //obj.FibonacciSeriesprogram(7);
 
-PrimeNumber obj = new PrimeNumber();
-Console.WriteLine(obj.PrimeNumberProgram(4));
+//PrimeNumber obj = new PrimeNumber();
+//Console.WriteLine(obj.PrimeNumberProgam(4));
+
+//ArmstrongNumber obj = new ArmstrongNumber();
+//obj.ArmstrongNumberProgram(22);
+
+SwapNumbers obj = new SwapNumbers();
+obj.Swapnumbersprogram(10, 20);
