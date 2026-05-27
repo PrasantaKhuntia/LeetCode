@@ -45,5 +45,26 @@
 //ArmstrongNumber obj = new ArmstrongNumber();
 //obj.ArmstrongNumberProgram(22);
 
-SwapNumbers obj = new SwapNumbers();
-obj.Swapnumbersprogram(10, 20);
+//SwapNumbers obj = new SwapNumbers();
+//obj.Swapnumbersprogram(10, 20);
+
+//LargestNumber obj =  new LargestNumber();
+//obj.LargestNumberProgram();
+
+//SmallestNumber obj = new SmallestNumber();
+//obj.SmallestNumberProgram();
+
+//SecondLargest obj = new SecondLargest();
+//obj.SecondLargestProgram();
+
+//SecondSmallest obj = new SecondSmallest();
+//obj.SecondSmallestProgram();
+
+//RemoveDuplicates obj = new RemoveDuplicates();
+//obj.RemoveDuplicatesProgram();
+
+//CountDuplicate obj = new CountDuplicate();
+//obj.CountDuplicateProgram();
+
+//FindMissingElement obj = new FindMissingElement();
+//obj.FindMissingElementprogram();
