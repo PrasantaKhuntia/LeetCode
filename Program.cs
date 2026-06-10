@@ -68,3 +68,43 @@
 
 //FindMissingElement obj = new FindMissingElement();
 //obj.FindMissingElementprogram();
+
+//MaxOccChar obj = new MaxOccChar();
+//obj.MaxOccCharProgram();
+
+//CountVowels obj = new CountVowels();
+//obj.CountVowelsProgram();
+
+//CountWords obj = new CountWords();
+//obj.CountWordsProgram();
+
+//ReverseSentense obj = new ReverseSentense();
+//obj.ReverseSentenceProgram();
+
+//StringAnagram obj = new StringAnagram();
+//obj.StringAnagramProgram();
+
+//BubbleSort obj = new BubbleSort();
+//obj.BubbleSortProgram();
+
+//SelectionSort obj = new SelectionSort();
+//obj.SelectionSortProgram();
+
+//InsertionSort obj = new InsertionSort();
+//obj.InsertionSortProgram();
+
+//BinarySearch obj = new BinarySearch();
+//obj.BinarySearchProgram();
+
+//LinearSearch obj = new LinearSearch();
+//obj.LinearSearchProgram();
+
+//MergeTwoArrays obj = new MergeTwoArrays();
+//obj.MergeTwoArraysProgram();
+
+//IntersectionOfTwoArray obj = new IntersectionOfTwoArray();
+//obj.IntersectionofTwoArrayProgram();
+
+UnionOfTwoArray obj = new UnionOfTwoArray();
+obj.UnionOfTwoArrayProgram();
+
