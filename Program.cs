@@ -105,6 +105,32 @@
 //IntersectionOfTwoArray obj = new IntersectionOfTwoArray();
 //obj.IntersectionofTwoArrayProgram();
 
-UnionOfTwoArray obj = new UnionOfTwoArray();
-obj.UnionOfTwoArrayProgram();
+//UnionOfTwoArray obj = new UnionOfTwoArray();
+//obj.UnionOfTwoArrayProgram();
 
+//RotateArrayLeft obj = new RotateArrayLeft();
+//obj.RotateArrayLeftProgram();
+
+//RotateArrayRight obj = new RotateArrayRight();
+//obj.RotateArrayRightProgram();
+
+//MoveZeroToTheEnd obj = new MoveZeroToTheEnd();
+//obj.MoveZeroToTheEndProgram();
+
+//SumOfDigits obj = new SumOfDigits();
+//obj.SumOfDigitsProgram();
+
+//ReverseNumber obj = new ReverseNumber();
+//obj.ReverseNumberProgram();
+
+//PerfectNumber obj = new PerfectNumber();
+//obj.PerfectNumberProgram();
+
+//GCDOfNumber obj = new GCDOfNumber();
+//obj.GCDOfNumberProgram();
+
+//LCMOfNumbers obj = new LCMOfNumbers();
+//obj.LCMOfNumbersProgram();
+
+//CheckLeapYear obj = new CheckLeapYear();
+//obj.CheckLeapYearProgram();
