@@ -1,4 +1,6 @@
 ﻿using LeetCode;
+using System;
+using System.Reflection.Metadata;
 
 //Time Complexity
 
@@ -134,3 +136,82 @@
 
 //CheckLeapYear obj = new CheckLeapYear();
 //obj.CheckLeapYearProgram();
+
+
+//------------------------------------------------------------------------------------------
+//Node first = new Node(10);
+//Node second = new Node(20);
+//Node third = new Node(30);
+
+//first.Next = second;
+//second.Next = third;
+
+//Node curr = first;
+
+//while(curr != null)
+//{
+//    Console.Write(curr.Data + "->");
+//    curr = curr.Next;
+//}
+//Console.WriteLine("Null");
+
+
+//-------------------------------------------------------------------------------------
+//Node first = new Node(10);
+//Node second = new Node(20);
+//Node third = new Node(30);
+//Node fourth = new Node(40);
+
+//first.Next = second;
+
+//second.Prev = first;
+//second.Next = third;
+
+//third.Prev = second;
+//third.Next = fourth;
+
+//fourth.Prev = third;
+
+//Node curr = first;
+
+//while(curr != null)
+//{
+//    Console.Write(curr.Data + "->");
+//    curr = curr.Next;
+//}
+//Console.WriteLine("Null");
+
+
+//-----------------------------------------------------------------------------------------
+//ReverseLinkedList obj = new ReverseLinkedList();
+//obj.Add(10);
+//obj.Add(20);
+//obj.Add(30);
+//obj.Add(40);
+
+//obj.Display();
+
+//Console.WriteLine("Reverse the LinkedList");
+
+//obj.Reverse();
+//obj.Display();
+
+
+//----------------------------------------------------------------------------------------
+//MergeLinkedList obj = new MergeLinkedList();
+
+//NodeList list1 = new NodeList(1);
+//list1.Next = new NodeList(3);
+//list1.Next.Next = new NodeList(5);
+//obj.Display(list1);
+
+//NodeList list2 = new NodeList(2);
+//list2.Next = new NodeList(4);
+//list2.Next.Next = new NodeList(6);
+//obj.Display(list2);
+
+//NodeList MergedList = obj.Merge(list1, list2);
+//obj.Display(MergedList);
+
+
+
