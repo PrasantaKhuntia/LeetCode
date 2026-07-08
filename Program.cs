@@ -213,5 +213,41 @@ using System.Reflection.Metadata;
 //NodeList MergedList = obj.Merge(list1, list2);
 //obj.Display(MergedList);
 
+//----------------------------------------------------------------------------
+//CreateStack obj = new CreateStack(5);
+//obj.push(10);
+//obj.push(20);
+//obj.push(30);
+//obj.push(40);
+
+//obj.display();
+
+//Console.WriteLine("The top element is " + obj.peek());
+
+//obj.pop();
+//Console.WriteLine("The stack after popping the element is ");
+//obj.display();
+
+//obj.push(50);
+//Console.WriteLine("The stack after pushing an element is ");
+//obj.display();
+
+//-----------------------------------------------------------------------------------------
+//QueueCreate obj = new QueueCreate(5);
+//obj.enqueue(10);
+//obj.enqueue(20);
+//obj.enqueue(30);
+//obj.enqueue(40);
+//obj.enqueue(50);
+
+//obj.display();
+//Console.WriteLine("---------------------------------------");
+//obj.dequeue();
+//obj.peek();
+//-----------------------------------------------------------------------------------
+
+//CountChar obj = new CountChar();
+//obj.CountCharProgram();
+
 
 
