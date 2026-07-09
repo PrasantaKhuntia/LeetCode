@@ -249,5 +249,13 @@ using System.Reflection.Metadata;
 //CountChar obj = new CountChar();
 //obj.CountCharProgram();
 
+//FrequencyOfElementInArray obj = new FrequencyOfElementInArray();
+//obj.FrequencyOfElementInArrayProgram();
+
+//Find1stNonRepeatingChar obj = new Find1stNonRepeatingChar();
+//obj.Find1stNonRepeatingCharProgram();
+
+
+
 
 
