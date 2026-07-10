@@ -255,7 +255,9 @@ using System.Reflection.Metadata;
 //Find1stNonRepeatingChar obj = new Find1stNonRepeatingChar();
 //obj.Find1stNonRepeatingCharProgram();
 
+//MatrixAddition obj = new MatrixAddition();
+//obj.MatrixAdditionProgram();
 
-
-
+MatrixMultiplication obj = new MatrixMultiplication();
+obj.MatrixMultiplicationProgram();
 
